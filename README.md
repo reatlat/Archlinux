@@ -1,4 +1,4 @@
-# archlinux
+# Archlinux
 Arch Linux Laptop
 
 #Multimedia
