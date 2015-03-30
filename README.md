@@ -6,3 +6,6 @@ deluge google-chrome dropbox
 
 #Wireless & Bluetooth
 bluez blueman
+
+#Print and Scanner
+cups cups-filters ghostscript gsfonts
