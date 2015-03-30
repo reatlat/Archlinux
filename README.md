@@ -1,6 +1,9 @@
 #Libreoffice
 libreoffice-{en-US,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
+#Fonts
+ttf-liberation ttf-ms-fonts ttf-mac-fonts
+
 #Steam
 steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 
