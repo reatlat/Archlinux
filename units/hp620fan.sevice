@@ -1,0 +1,11 @@
+[Unit]
+Description=Fan control for hp620
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/hp620fan
+TimeoutSec=30
+SysVStartPriority=99
+
+[Install]
+WantedBy=multi-user.target
